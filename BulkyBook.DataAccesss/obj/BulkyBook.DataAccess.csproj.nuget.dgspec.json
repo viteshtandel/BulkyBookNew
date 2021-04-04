@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.DataAccesss\\BulkyBook.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.DataAccesss\\BulkyBook.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.DataAccesss\\BulkyBook.DataAccess.csproj",
+        "projectName": "BulkyBook.DataAccess",
+        "projectPath": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.DataAccesss\\BulkyBook.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\tah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.DataAccesss\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\uktgtfs01\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+                "projectPath": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
+              },
+              "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+                "projectPath": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "projectName": "BulkyBook.Models",
+        "projectPath": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
+        "packagesPath": "C:\\Users\\tah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\uktgtfs01\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+        "projectName": "BulkyBook.Utility",
+        "projectPath": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+        "packagesPath": "C:\\Users\\tah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tah\\source\\repos\\BulkyBook\\BulkyBook.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\uktgtfs01\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
