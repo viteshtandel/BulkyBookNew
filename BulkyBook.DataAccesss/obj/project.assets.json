@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Dapper/2.0.78": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/5.0.4": {
         "type": "package",
         "compile": {
@@ -1567,6 +1576,23 @@
     }
   },
   "libraries": {
+    "Dapper/2.0.78": {
+      "sha512": "vLPwL2HZXp/DN17Eu7sg6GMEj02alq7jcy6atn5Gv8i96b9Hu1UoxlCrhInUPfSFLQQiD8O7pdWAE1fdUEO/1Q==",
+      "type": "package",
+      "path": "dapper/2.0.78",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dapper.2.0.78.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
     "Microsoft.AspNetCore.Cryptography.Internal/5.0.4": {
       "sha512": "KZwzffCGaE+V6n/kBPdFEA1M5pDgH9Y6GbOSjzSyH8h6JC+hAkpAnqFtToGNHyBK9QGExA1Ie1BvEL9lycdJ5w==",
       "type": "package",
@@ -5839,6 +5865,7 @@
     "net5.0": [
       "BulkyBook.Models >= 1.0.0",
       "BulkyBook.Utility >= 1.0.0",
+      "Dapper >= 2.0.78",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.4",
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.4"
@@ -5895,6 +5922,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.0.78, )"
+          },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[5.0.4, )"
