@@ -1,11 +1,12 @@
 ﻿var dataTable;
 
-$(document).ready(function() {
+$(document).ready(function () {
     loadDataTable();
 });
 
+
 function loadDataTable() {
-    dataTable = $('#tblData').dataTable({
+    dataTable = $('#tblData').DataTable({
         "ajax": {
             "url": "/Admin/Product/GetAll"
         },
@@ -14,7 +15,7 @@ function loadDataTable() {
             { "data": "isbn", "width": "15%" },
             { "data": "price", "width": "15%" },
             { "data": "author", "width": "15%" },
-            { "data": "category.Name", "width": "15%" },
+            { "data": "category.name", "width": "15%" },
             {
                 "data": "id",
                 "render": function (data) {

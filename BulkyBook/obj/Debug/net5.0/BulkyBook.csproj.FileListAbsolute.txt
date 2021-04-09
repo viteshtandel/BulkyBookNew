@@ -453,3 +453,5 @@ C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Views\Share
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs
