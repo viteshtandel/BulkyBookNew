@@ -93,7 +93,6 @@ C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.As
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
-C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
@@ -106,7 +105,6 @@ C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Ex
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -118,19 +116,15 @@ C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Ex
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
-C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
-C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
@@ -147,7 +141,6 @@ C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Colle
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
-C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.ComponentModel.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
@@ -229,7 +222,6 @@ C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Refle
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Resources.Reader.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Resources.Writer.dll
-C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Runtime.dll
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
@@ -455,3 +447,13 @@ C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
 C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Company\Index.cshtml.g.cs
+C:\Users\tah\source\repos\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Company\Upsert.cshtml.g.cs
